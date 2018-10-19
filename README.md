@@ -14,7 +14,8 @@ Measurement. 2016; 37:10.
 The full text of the article can be access here: http://iopscience.iop.org/article/10.1088/0967-3334/37/10/1653/meta
 
 Features of the Processing PAL application:
-* Batch processing of events.csv files
+* Batch processing of events.csv files (note: works best with 250 files or less. Process in batches if
+more than 250 files)
 * Validated algorithm which isolates valid waking wear data from time in bed, prolonged nonwear
 and invalid data
 * Adaptable algorithm thresholds to determine waking wear data
