@@ -1,5 +1,6 @@
 # ProcessingPAL
-Processing PAL has been developed by Charlotte Edwardson (University of Leicester) and Shashidar Ette (University of Leicester).
+Processing PAL has been developed by Charlotte Edwardson (University of Leicester and NIHR Leicester
+BRC) and Shashidar Ette (University of Leicester).
 
 Processing PAL is an application (Java) to process data collected from the activPAL device. 
 This application uses the events.csv files. It uses a validated algorithm to isolate valid waking wear data
